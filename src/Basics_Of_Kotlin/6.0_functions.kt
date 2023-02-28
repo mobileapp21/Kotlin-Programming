@@ -19,7 +19,7 @@ fun myFunWithReturns(): String {
 fun main(){
 myFun()
     myFunWithPar("Roman")
-   
+
     print( myFunWithReturns())
 
 }
