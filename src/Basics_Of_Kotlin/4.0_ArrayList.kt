@@ -25,13 +25,13 @@ fun main() {
 
 
     // Let's create an ArrayList class with initialize its initial capacity.
-    // The capacity of ArrayList class is not fixed and it can be change later in program according to requirement.
+    // The capacity of ArrayList class is not fixed and it can be change lat
+    //    for (age in ageList)er in program according to requirement.
     val ageList = ArrayList<Int>(3)
     ageList.add(12) // Adding object in ageList
     ageList.add(21)
     ageList.add(33)
-
-    for (age in ageList) {
+ {
 
         println("Age : " + age)
     }
