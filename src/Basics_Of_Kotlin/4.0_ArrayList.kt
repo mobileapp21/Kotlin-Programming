@@ -31,10 +31,7 @@ fun main() {
     ageList.add(12) // Adding object in ageList
     ageList.add(21)
     ageList.add(33)
- {
 
-        println("Age : " + age)
-    }
 
 
     // arrayList size
