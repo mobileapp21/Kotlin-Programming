@@ -1,5 +1,5 @@
 package OOP
-
+//
 data class Question2<T>(
     val questionText: String,
     val answer: T,
@@ -12,4 +12,7 @@ fun main() {
     val question2 = Question2<Boolean>("The sky is green. True or false", false, Difficulty.EASY)
     val question3 = Question2<Int>("How many days are there between full moons?", 28, Difficulty.HARD)
     println(question1.toString())
+    println(question2.toString())
+    println(question3.toString())
+    
 }
