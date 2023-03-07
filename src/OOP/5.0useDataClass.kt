@@ -1,5 +1,5 @@
 package OOP
-
+//
 data class Question2<T>(
     val questionText: String,
     val answer: T,
