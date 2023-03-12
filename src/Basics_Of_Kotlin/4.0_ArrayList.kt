@@ -31,7 +31,14 @@ fun main() {
     ageList.add(12) // Adding object in ageList
     ageList.add(21)
     ageList.add(33)
+<<<<<<< HEAD
 
+=======
+// {
+//
+//        println("Age : " + age)
+//    }
+>>>>>>> KotlinPrograms
 
 
     // arrayList size
